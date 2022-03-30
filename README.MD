@@ -18,6 +18,7 @@ Info my project:
 Install [Tensorflow, cuDNN, CUDA](https://www.tensorflow.org/install/source#macos)
 <br/>
 <b>Step 01: </b> `git clone https://github.com/gshoanganh/mask-detection.git` 
+or you can run on [Colab](https://colab.research.google.com/drive/)
 <br/>
 <b>Step 02: </b> open Terminal (or cmd) at `cd mask-detection` run
 <pre>
